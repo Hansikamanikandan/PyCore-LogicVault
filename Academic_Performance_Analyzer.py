@@ -1,5 +1,3 @@
-# ex1f.py
-
 m1 = float(input("Enter mark1: "))
 m2 = float(input("Enter mark2: "))
 m3 = float(input("Enter mark3: "))

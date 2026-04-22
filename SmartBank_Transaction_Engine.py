@@ -1,5 +1,3 @@
-# ex1d.py
-
 n = int(input("Enter the initial balance: "))
 print("Enter 1 for deposit and 2 for withdrawal")
 c = int(input("Enter the type of transaction: "))
